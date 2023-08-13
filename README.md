@@ -1,0 +1,2 @@
+->A To-do list Application 📋
+->Skills: HTML, CSS, Bootstrap, JavaScript, Node, Express, EJS.
